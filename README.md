@@ -59,6 +59,7 @@ go mod tidy
 ### 3. Run the server
 
 ```
+cp .env.development .env
 go run main.go
 ```
 
